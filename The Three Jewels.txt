@@ -12,3 +12,5 @@ Buddha, the fully enlightened one\
 Dharma, the true nature of reality \
 \
 Sangha, the spiritual community}
+
+author - Bhante
